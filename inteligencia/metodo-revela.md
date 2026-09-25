@@ -1,22 +1,40 @@
 # Método Revela
 
-## O que é
-Método exclusivo criado pela Dra. Larissa, fruto de tudo que ela aprendeu e testou na
-prática (mais de 1 milhão investido, contato do Pablo, Gold Decision). Não é aplicar o
-que os outros ensinam — é o método **próprio** dela.
+> Fonte da verdade: `/inteligencia/repositorio-mestre.md` (seções 2, 3, 4). Recorte prático aqui.
 
-## Momento atual
-- Está em **fase de lançamento**.
-- O movimento de lançamento começa **em primeira mão**, ao vivo, acompanhando de perto
-  pelo **Instagram** (início oficial num final de semana de estreia).
-- Entrar na estreia = ver de dentro, desde o começo (raro e valioso).
+## O que é (uma frase)
+Tratamento de emagrecimento com **tirzepatida + acompanhamento médico + nutricionista +
+treino em casa + cuidado dos cabelos**, num único programa **online**. Homens e mulheres
+adultos.
 
-## Diferenciais para comunicar
-- Método autoral e exclusivo (não é curso revendido).
-- Construído com base em investimento alto e network de peso.
-- Apoio de **tecnologia**: uma pessoa cuida de toda a parte digital da Larissa e também
-  ajuda com **automação e IA** para alavancar resultados na prática.
+- Site: metodorevela.app · Quiz/checkout: metodorevela.app/quiz
 
-## Observações
-- (Preencher conforme o método for detalhado: promessa central, para quem é,
-  etapas/pilares, entregáveis, formato.)
+## Os 4 movimentos (narrativa da marca)
+Reconhecer · Cuidar · Revelar · Continuar.
+
+## Os 4 pilares (o que entrega)
+1. **Médico + tirzepatida** — consulta, prescrição e acompanhamento, com retorno.
+2. **Nutrição** — consulta com nutricionista, plano alimentar e acompanhamento, com retorno.
+3. **Treino** — plano básico para casa (versões masculina e feminina).
+4. **Cabelo** — cuidado capilar com suporte médico (Dra. Paula): avaliação, vitaminas e
+   tônico conforme orientação.
+
+**Retornos inclusos:** 1 retorno médico + 1 retorno nutricional (além das consultas iniciais).
+
+## Diferencial-chave de venda (gancho do cabelo)
+O **medo de perder cabelo** é o que mais adia gente a começar tirzepatida. No Revela o
+cuidado capilar **começa junto** com o emagrecimento — não depois que o problema aparece.
+
+## Tirzepatida — como comunicar (compliance)
+- Usada **sempre com prescrição e acompanhamento médico**, junto dos outros pilares.
+- Nunca como produto isolado nem protagonista. A conduta é definida em consulta.
+- Protocolo/dosagem da operação: `[PREENCHER]`.
+
+## Fluxo do cliente
+1) conhece o Revela → 2) confere contratação e valor → 3) faz os atendimentos (equipe
+médica + nutri) → 4) segue no acompanhamento.
+
+## Lacunas
+- **Preço:** `[PREENCHER]` (site diz "consulte o valor total").
+- **Área de membros:** existe, conteúdo `[PREENCHER]`.
+- **Destino do tráfego (WhatsApp x Telegram):** `[PREENCHER]`.

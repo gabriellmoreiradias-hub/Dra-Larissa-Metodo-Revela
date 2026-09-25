@@ -16,19 +16,29 @@
    conversa, **atualize o arquivo correspondente** em `/inteligencia/`.
 5. Responder sempre em **português do Brasil**, tom humano e próximo.
 
+## Fonte da verdade
+
+`/inteligencia/repositorio-mestre.md` é o documento oficial do Gabriel. **Em qualquer
+conflito, ele prevalece.** Convenções de marcação: sem marca = confirmado; `[GERAL]` =
+descrição genérica de mercado; `[PREENCHER]` = lacuna que só a equipe tem — **nunca inventar.**
+
 ## Mapa do repositório
 
-- `/inteligencia/persona-larissa.md` — quem é ela, história, tom de voz.
-- `/inteligencia/metodo-revela.md` — o método exclusivo dela.
-- `/inteligencia/ofertas-e-precos.md` — mentoria, faixas de valor, case, custo.
-- `/mensagens/` — mensagens prontas (WhatsApp/Direct) já criadas.
-- `/campanhas/` — lançamentos e movimentos (Instagram, primeira mão, etc.).
+- `/inteligencia/repositorio-mestre.md` — **documento oficial (fonte da verdade).**
+- `/inteligencia/persona-larissa.md` — quem é ela e tom de voz.
+- `/inteligencia/metodo-revela.md` — o tratamento (4 pilares).
+- `/inteligencia/ofertas-e-precos.md` — oferta, preço (a preencher), GoldIncision.
+- `/inteligencia/compliance.md` — **regras de comunicação médica (ler antes de toda copy).**
+- `/mensagens/` — mensagens prontas. Arquivos com prefixo `_REVISAR` estão em conflito e não devem ser usados.
+- `/campanhas/` — lançamentos e movimentos (Instagram, live, etc.).
 
 ## Resumo rápido (para contexto imediato)
 
-- Larissa investiu **mais de 1 milhão** em conhecimento, mentorias e network.
-- Tem contato do **Pablo** e é aluna do **Gold Decision**.
-- Criou um método exclusivo próprio: o **Método Revela** (em fase de lançamento).
-- Está começando o movimento de lançamento **em primeira mão** pelo Instagram.
-- Tem uma pessoa que cuida de toda a parte digital/tecnologia dela, que também
-  apoia com **automação e IA** para alavancar resultados.
+- **Dra. Larissa Assunção (CRM MG 118695)** — médica. Conduz emagrecimento com tirzepatida.
+- Trabalha com a filha, **Dra. Paula Assunção (CRM SP 290466)** — tricologia/cabelo.
+- **Método Revela** = tratamento médico de emagrecimento **online**: tirzepatida +
+  acompanhamento médico + nutrição + treino em casa + cuidado capilar. Em lançamento.
+- **NÃO é** mentoria/curso de negócios. Preço = `[PREENCHER]`.
+- Operação médica: seguir SEMPRE as guardas de `compliance.md` (CFM, sem promessa de
+  resultado, sem antes/depois em pago, avaliação individual).
+- Gabriel conduz o lançamento (tráfego + grupo + live).

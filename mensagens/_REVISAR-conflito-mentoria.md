@@ -1,4 +1,20 @@
-# Mensagens — Convite para amiga próxima (Método Revela)
+# ⚠️ REVISAR — CONFLITO COM O REPOSITÓRIO OFICIAL
+
+> **NÃO USAR como está.** Esta mensagem foi criada antes do repositório oficial e parte de
+> uma premissa que CONFLITA com ele: trata o Método Revela como uma **mentoria de negócios**
+> (com "1 milhão investido", "contato do Pablo", "Gold Decision", venda de R$ 15–40k).
+>
+> O repositório oficial (`/inteligencia/repositorio-mestre.md`) diz que o Método Revela é um
+> **tratamento médico de emagrecimento** (tirzepatida + nutrição + treino + cabelo),
+> conduzido por médica (CRM), sujeito a regras do CFM.
+>
+> **Pendência para o Gabriel decidir:** essa "mentoria" é (a) um produto real e SEPARADO da
+> Dra. Larissa, que merece o próprio arquivo, ou (b) um mal-entendido a ser descartado?
+> Enquanto não decidir, este arquivo fica arquivado e fora da base ativa.
+
+---
+
+# (Arquivado) Mensagens — Convite para amiga próxima
 
 Contexto: uma amiga já conhecida entrou em contato, curiosa com o movimento da Larissa.
 Tom: intimista (amiga para amiga). Objetivo final: mentoria (R$ 15k+), sem jogar preço

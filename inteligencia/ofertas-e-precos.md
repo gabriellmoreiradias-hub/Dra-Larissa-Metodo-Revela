@@ -1,25 +1,26 @@
 # Ofertas e Preços
 
-> ATENÇÃO: informação sensível de negócio. Usar para orientar estratégia de conversa,
-> nunca jogar o preço logo na abertura com pessoas próximas.
+> Fonte da verdade: `/inteligencia/repositorio-mestre.md`. Informação sensível — manter repositório privado.
 
-## Oferta 1 — Case "primeira mão" (custo)
-- Convite para participar do lançamento em primeira mão, montando um **case real**.
-- Formato: a pessoa entra **pagando apenas o custo** (não é o valor cheio).
-- Contrapartida: acompanha a estreia de dentro + apoio de automação/IA.
-- Uso: isca de relacionamento e prova social; porta de entrada.
+## Método Revela (oferta principal)
+- Programa médico online (4 pilares — ver `metodo-revela.md`).
+- **Preço:** `[PREENCHER]` — o site diz "consulte o valor total"; o quiz leva ao checkout,
+  o valor não é público. **Não inventar valor em nenhuma copy.**
+- Contratação via metodorevela.app/quiz → checkout.
+- **Escassez legítima:** vagas por turma limitadas pela capacidade real de atendimento
+  médico. Pode usar. Escassez falsa, não.
 
-## Oferta 2 — Mentoria (alto valor)
-- Mentoria individual do Método Revela.
-- Faixa de valor de referência: **R$ 20.000 a R$ 40.000**.
-- Meta mínima de fechamento: **R$ 15.000**.
-- Estratégia de ancoragem: apresentar primeiro o valor cheio (ex.: R$ 40k) e, "por ser
-  você / por ser agora", chegar na faixa desejada (R$ 15–20k). O desconto vira prova de
-  vínculo, não de desespero.
+## GoldIncision (celulite) — oferta possivelmente separada
+- Técnica não cirúrgica de celulite/flacidez (Dr. Roberto Chacur / Leger). Ver mestre §5.
+- Protocolo, sessões, preço e posicionamento da Dra. Larissa: `[PREENCHER]`.
+- Como entra no funil do Revela (upsell? funil separado?): `[PREENCHER]`.
 
-## Como conduzir (padrão)
-1. **Isca** (mensagem que gera curiosidade) → objetivo único: a pessoa responder "conta!".
-2. **Áudio ou call** → curiosidade alta não se resolve por texto.
-3. **Só então** apresentar a mentoria, ancorando no investimento e na autoridade.
-4. **Ancoragem de preço** → valor cheio primeiro, depois a condição especial.
-5. **Fechamento** → convite direto e caloroso.
+## Comissão de afiliado (fase pós-validação)
+- `[PREENCHER]`.
+
+## ⚠️ Sobre "mentoria de R$ 15–40k"
+Esse número surgiu em conversa antes do repositório oficial, num contexto de vender uma
+**mentoria de negócios** — que **não** corresponde ao Método Revela (tratamento médico).
+Está isolado em `/mensagens/_REVISAR-conflito-mentoria.md` até o Gabriel esclarecer se é:
+(a) um produto real e separado da Larissa, ou (b) um mal-entendido a descartar.
+Não usar esse número em copy do Método Revela.

@@ -15,17 +15,19 @@ para não se perder entre uma conversa e outra — e para **gastar menos uso, se
 
 - `CLAUDE.md` — regras de trabalho + resumo rápido (lido automaticamente).
 - `inteligencia/` — a base de conhecimento:
+  - `repositorio-mestre.md` — documento oficial (fonte da verdade).
   - `persona-larissa.md` — quem é ela e tom de voz.
-  - `metodo-revela.md` — o método exclusivo.
-  - `ofertas-e-precos.md` — mentoria, faixas de valor, case (informação sensível).
-- `mensagens/` — mensagens prontas para WhatsApp/Direct.
+  - `metodo-revela.md` — o tratamento médico (4 pilares).
+  - `ofertas-e-precos.md` — oferta, preço (a preencher), GoldIncision (sensível).
+  - `compliance.md` — regras de comunicação médica (ler antes de toda copy).
+- `mensagens/` — mensagens prontas. Prefixo `_REVISAR` = em conflito, não usar.
 - `campanhas/` — lançamentos e movimentos de Instagram.
 
 ## Como pedir as coisas (para economizar uso)
 
 Exemplos de pedidos diretos:
-- "Cria uma mensagem de follow-up pra amiga que ainda não respondeu."
-- "Monta o roteiro do áudio pra call de venda da mentoria."
-- "Escreve 3 stories pra estreia do Método Revela."
+- "Escreve 3 stories pra estreia do Método Revela (dentro do compliance)."
+- "Monta a sequência de boas-vindas do grupo do lançamento."
+- "Cria uma legenda orgânica sobre o gancho do cabelo (5 hashtags)."
 
 O Claude já usa a base salva aqui — você não precisa reexplicar a Larissa toda vez.

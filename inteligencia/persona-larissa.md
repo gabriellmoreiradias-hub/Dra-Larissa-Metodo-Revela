@@ -1,24 +1,34 @@
-# Persona — Dra. Larissa
+# Persona — Dra. Larissa Assunção
+
+> Fonte da verdade: `/inteligencia/repositorio-mestre.md`. Este é o recorte de voz/persona.
 
 ## Quem é
-Profissional que investiu pesado em desenvolvimento e posicionamento, e agora está
-em fase de lançamento do próprio método. Está "movimentando" — postando e ativando
-o network — e isso vem atraindo pessoas interessadas no que ela está construindo.
+**Dra. Larissa Assunção — CRM MG 118695.** Médica. Conduz o tratamento de emagrecimento
+com tirzepatida no **Método Revela**. Viveu o próprio processo de emagrecimento e
+transformação de imagem, e transformou isso em atuação profissional.
 
-## Trajetória / provas de autoridade
-- Investiu **mais de 1 milhão** entre conhecimento, mentorias e network.
-- Conseguiu o **contato do Pablo** (referência forte para ela).
-- Entrou para o **Gold Decision**.
-- A partir de tudo isso, criou algo próprio e exclusivo: o **Método Revela**.
+Trabalha em dupla com a filha, **Dra. Paula Assunção (CRM SP 290466)**, tricologista,
+responsável pelo cuidado capilar do método. Posicionamento: mãe e filha, duas médicas
+unidas por cuidado e propósito, com base de fé cristã.
 
-## Tom de voz
-- Próximo, humano, de conversa real — nada de linguagem corporativa/robótica.
-- Intimista quando fala com pessoas conhecidas (amigas): confidência, "abrir o jogo".
-- Usa emojis com moderação (💛 🚀 🥹) para dar calor, sem exagero.
-- Gera curiosidade sem entregar tudo de cara — convida para uma conversa (áudio/call).
-- Ancorada em prova real (o quanto investiu, com quem aprendeu), nunca em promessa vazia.
+Site pessoal: larissaassuncao.com
 
-## O que evitar
-- Não soar como "pitch de venda" com quem já é próximo.
-- Não jogar preço logo de cara — mata a curiosidade e esfria.
-- Não prometer resultado garantido; falar de método, apoio e prática.
+## Tom de voz (núcleo da marca)
+- **Não vende balança, vende identidade:** "revelar quem você já é", "voltar a se
+  reconhecer", "chega de se esconder".
+- **Médico e comedido:** usa "pode", "resultados variam", "avaliação individual".
+- **Nunca promete** quilos nem prazo.
+- Protagonista é **o cuidado**, nunca o medicamento.
+- Fé cristã sustenta o discurso, com respeito e sem imposição.
+
+## O que evitar (crítico — é médica, CRM em jogo)
+- Promessa de resultado, quilos ou prazo.
+- Antes/depois de corpo em anúncio pago.
+- Vender a tirzepatida ("canetinha") como produto isolado/protagonista.
+- Escassez falsa. (Escassez real de vagas por turma, pode.)
+
+## ⚠️ Não confundir
+Larissa **não** é infoprodutora de mentoria de negócios. Método Revela é um **tratamento
+médico de emagrecimento**, não um curso/mentoria. Qualquer narrativa de "investiu 1 milhão,
+contato do Pablo, Gold Decision, método de negócios" NÃO consta no repositório oficial —
+ver `/mensagens/_REVISAR-conflito-mentoria.md`.
