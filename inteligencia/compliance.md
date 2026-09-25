@@ -24,3 +24,15 @@
 ## Tráfego
 - Meta + TikTok, **excluir MG** na segmentação (definido no plano de lançamento).
 - Sem antes/depois de corpo em pago.
+
+## Método Revela (corporal) — cuidado redobrado
+- Tema estético sensível. **Alerta expresso do Gabriel:** tomar muito cuidado na
+  comunicação, pois uma peça mal feita pode gerar **ação/processo**.
+- Sem promessa de resultado; "avaliação individual"; não garantir equivalência à cirurgia.
+- Validar com assessoria/jurídico antes de publicar.
+
+## Programa de afiliados — cuidado jurídico
+- Adesão paga + comissão por indicar novos afiliados tem sensibilidade legal (marketing
+  multinível). **Não prometer renda garantida nem números de ganho como certeza.**
+- Validar a estrutura e a copy com jurídico antes de escalar.
+- (Não sou advogado; estes são alertas, não parecer jurídico.)

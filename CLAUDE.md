@@ -24,21 +24,24 @@ descrição genérica de mercado; `[PREENCHER]` = lacuna que só a equipe tem �
 
 ## Mapa do repositório
 
-- `/inteligencia/repositorio-mestre.md` — **documento oficial (fonte da verdade).**
+- `/inteligencia/repositorio-mestre.md` — documento oficial (base ampla; nomenclatura antiga).
+- `/inteligencia/produtos-e-nomenclatura.md` — **os 3 produtos e nomes corretos (autoritativo).**
+- `/inteligencia/protocolo-revela.md` — tratamento médico de emagrecimento (a partir de R$ 1.787).
+- `/inteligencia/metodo-revela.md` — tratamento corporal/estético (flacidez, gordura, escultura).
+- `/inteligencia/programa-afiliados.md` — oportunidade de negócio (adesão R$ 1.500 + comissões).
 - `/inteligencia/persona-larissa.md` — quem é ela e tom de voz.
-- `/inteligencia/metodo-revela.md` — o tratamento (4 pilares).
-- `/inteligencia/ofertas-e-precos.md` — oferta, preço (a preencher), GoldIncision.
-- `/inteligencia/compliance.md` — **regras de comunicação médica (ler antes de toda copy).**
-- `/mensagens/` — mensagens prontas. Arquivos com prefixo `_REVISAR` estão em conflito e não devem ser usados.
+- `/inteligencia/ofertas-e-precos.md` — tabela de preços e comissões.
+- `/inteligencia/compliance.md` — **regras de comunicação (ler antes de toda copy).**
+- `/mensagens/` — mensagens prontas.
 - `/campanhas/` — lançamentos e movimentos (Instagram, live, etc.).
 
 ## Resumo rápido (para contexto imediato)
 
-- **Dra. Larissa Assunção (CRM MG 118695)** — médica. Conduz emagrecimento com tirzepatida.
-- Trabalha com a filha, **Dra. Paula Assunção (CRM SP 290466)** — tricologia/cabelo.
-- **Método Revela** = tratamento médico de emagrecimento **online**: tirzepatida +
-  acompanhamento médico + nutrição + treino em casa + cuidado capilar. Em lançamento.
-- **NÃO é** mentoria/curso de negócios. Preço = `[PREENCHER]`.
-- Operação médica: seguir SEMPRE as guardas de `compliance.md` (CFM, sem promessa de
-  resultado, sem antes/depois em pago, avaliação individual).
+- **Dra. Larissa Assunção (CRM MG 118695)** — médica. Filha **Dra. Paula (CRM SP 290466)** cuida do cabelo.
+- **Três produtos distintos (não misturar):**
+  1. **Protocolo Revela** — emagrecimento médico (médico + nutri + treino + tirzepatida se elegível). **A partir de R$ 1.787.**
+  2. **Programa de Afiliados** — oportunidade de negócio: curso (tráfego, conteúdo, IA) + comissões. **Adesão R$ 1.500.**
+  3. **Método Revela** — tratamento corporal (flacidez/gordura localizada/escultura, sem cirurgia). Preço `[PREENCHER]`.
+- Operação médica + oportunidade: seguir SEMPRE `compliance.md` (CFM, sem promessa de
+  resultado, sem antes/depois em anúncio pago, sem renda garantida, avaliação individual).
 - Gabriel conduz o lançamento (tráfego + grupo + live).

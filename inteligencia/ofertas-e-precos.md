@@ -1,26 +1,26 @@
-# Ofertas e Preços
+# Ofertas e Preços (resumo)
 
-> Fonte da verdade: `/inteligencia/repositorio-mestre.md`. Informação sensível — manter repositório privado.
+> Informação sensível — manter repositório privado. Detalhe de cada item nos arquivos próprios.
+> Nomenclatura oficial: `produtos-e-nomenclatura.md`.
 
-## Método Revela (oferta principal)
-- Programa médico online (4 pilares — ver `metodo-revela.md`).
-- **Preço:** `[PREENCHER]` — o site diz "consulte o valor total"; o quiz leva ao checkout,
-  o valor não é público. **Não inventar valor em nenhuma copy.**
-- Contratação via metodorevela.app/quiz → checkout.
-- **Escassez legítima:** vagas por turma limitadas pela capacidade real de atendimento
-  médico. Pode usar. Escassez falsa, não.
+## Tabela rápida
 
-## GoldIncision (celulite) — oferta possivelmente separada
-- Técnica não cirúrgica de celulite/flacidez (Dr. Roberto Chacur / Leger). Ver mestre §5.
-- Protocolo, sessões, preço e posicionamento da Dra. Larissa: `[PREENCHER]`.
-- Como entra no funil do Revela (upsell? funil separado?): `[PREENCHER]`.
+| Produto | O que é | Preço | Arquivo |
+|---|---|---|---|
+| **Protocolo Revela** | Tratamento médico de emagrecimento (médico + nutri + treino + tirzepatida se elegível) | **a partir de R$ 1.787** | `protocolo-revela.md` |
+| **Programa de Afiliados** | Oportunidade de negócio: curso + comissões | **adesão R$ 1.500** (ou R$ 1.497 — confirmar) | `programa-afiliados.md` |
+| **Método Revela** | Tratamento corporal (flacidez/gordura localizada/escultura, sem cirurgia) | `[PREENCHER]` | `metodo-revela.md` |
 
-## Comissão de afiliado (fase pós-validação)
-- `[PREENCHER]`.
+## Comissões do afiliado
+- **25%** sobre o tratamento (Protocolo Revela) ≈ R$ 446,75/venda.
+- **50%** da adesão ao indicar novo afiliado ≈ R$ 748,50 (empresa fica com os outros 50%).
 
-## ⚠️ Sobre "mentoria de R$ 15–40k"
-Esse número surgiu em conversa antes do repositório oficial, num contexto de vender uma
-**mentoria de negócios** — que **não** corresponde ao Método Revela (tratamento médico).
-Está isolado em `/mensagens/_REVISAR-conflito-mentoria.md` até o Gabriel esclarecer se é:
-(a) um produto real e separado da Larissa, ou (b) um mal-entendido a descartar.
-Não usar esse número em copy do Método Revela.
+## Regras de preço em copy
+- **Nunca inventar valor.** Usar só os confirmados acima.
+- Protocolo Revela: "a partir de R$ 1.787".
+- Escassez legítima (vagas por turma), sim. Falsa, não.
+
+## Pendências
+- Valor exato da adesão do afiliado (R$ 1.500 x R$ 1.497).
+- Preço do Método Revela (corporal).
+- Discrepância "mentoria R$ 15–40k" x afiliado R$ 1.500 → ver `programa-afiliados.md`.
